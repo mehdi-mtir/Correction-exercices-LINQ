@@ -1,0 +1,14 @@
+E:\formations2026\09-21-DotNet-Orléans-GK-FP\reparcourjava_net\module2\ateliers\exercicesLINQ\ExercicesLinq-corrige\ExercicesLinq\bin\Debug\net8.0\ExercicesLinq.exe
+E:\formations2026\09-21-DotNet-Orléans-GK-FP\reparcourjava_net\module2\ateliers\exercicesLINQ\ExercicesLinq-corrige\ExercicesLinq\bin\Debug\net8.0\ExercicesLinq.deps.json
+E:\formations2026\09-21-DotNet-Orléans-GK-FP\reparcourjava_net\module2\ateliers\exercicesLINQ\ExercicesLinq-corrige\ExercicesLinq\bin\Debug\net8.0\ExercicesLinq.runtimeconfig.json
+E:\formations2026\09-21-DotNet-Orléans-GK-FP\reparcourjava_net\module2\ateliers\exercicesLINQ\ExercicesLinq-corrige\ExercicesLinq\bin\Debug\net8.0\ExercicesLinq.dll
+E:\formations2026\09-21-DotNet-Orléans-GK-FP\reparcourjava_net\module2\ateliers\exercicesLINQ\ExercicesLinq-corrige\ExercicesLinq\bin\Debug\net8.0\ExercicesLinq.pdb
+E:\formations2026\09-21-DotNet-Orléans-GK-FP\reparcourjava_net\module2\ateliers\exercicesLINQ\ExercicesLinq-corrige\ExercicesLinq\obj\Debug\net8.0\ExercicesLinq.GeneratedMSBuildEditorConfig.editorconfig
+E:\formations2026\09-21-DotNet-Orléans-GK-FP\reparcourjava_net\module2\ateliers\exercicesLINQ\ExercicesLinq-corrige\ExercicesLinq\obj\Debug\net8.0\ExercicesLinq.AssemblyInfoInputs.cache
+E:\formations2026\09-21-DotNet-Orléans-GK-FP\reparcourjava_net\module2\ateliers\exercicesLINQ\ExercicesLinq-corrige\ExercicesLinq\obj\Debug\net8.0\ExercicesLinq.AssemblyInfo.cs
+E:\formations2026\09-21-DotNet-Orléans-GK-FP\reparcourjava_net\module2\ateliers\exercicesLINQ\ExercicesLinq-corrige\ExercicesLinq\obj\Debug\net8.0\ExercicesLinq.csproj.CoreCompileInputs.cache
+E:\formations2026\09-21-DotNet-Orléans-GK-FP\reparcourjava_net\module2\ateliers\exercicesLINQ\ExercicesLinq-corrige\ExercicesLinq\obj\Debug\net8.0\ExercicesLinq.dll
+E:\formations2026\09-21-DotNet-Orléans-GK-FP\reparcourjava_net\module2\ateliers\exercicesLINQ\ExercicesLinq-corrige\ExercicesLinq\obj\Debug\net8.0\refint\ExercicesLinq.dll
+E:\formations2026\09-21-DotNet-Orléans-GK-FP\reparcourjava_net\module2\ateliers\exercicesLINQ\ExercicesLinq-corrige\ExercicesLinq\obj\Debug\net8.0\ExercicesLinq.pdb
+E:\formations2026\09-21-DotNet-Orléans-GK-FP\reparcourjava_net\module2\ateliers\exercicesLINQ\ExercicesLinq-corrige\ExercicesLinq\obj\Debug\net8.0\ExercicesLinq.genruntimeconfig.cache
+E:\formations2026\09-21-DotNet-Orléans-GK-FP\reparcourjava_net\module2\ateliers\exercicesLINQ\ExercicesLinq-corrige\ExercicesLinq\obj\Debug\net8.0\ref\ExercicesLinq.dll
